@@ -34,18 +34,19 @@ Demonstrate the ability to:
 
 ## Pipeline Flow
 Search Companies by Keyword + LATAM Countries
-↓
+-
 /organizations/search
-↓
+-
 Extract unique domains
-↓
+-
 Enrich each domain
-↓
+-
 /organizations/enrich
-↓
+-
 Calculate Real Apollo Score
-↓
+-
 Export to CSV → Dashboard
+-
 
 text
 
@@ -83,7 +84,7 @@ text
 pip install requests
 Execution
 bash
-python 07_apollo_latam_search.py
+python 06_apollo_latam_search.py
 Output Files
 File	Description
 apollo_latam_companies.csv	Enriched company data ready for dashboard
