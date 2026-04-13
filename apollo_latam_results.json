@@ -1,0 +1,204 @@
+{
+  "timestamp": "2026-04-12T01:36:10.746822",
+  "region": "Latin America",
+  "countries_searched": [
+    "Brazil",
+    "Mexico",
+    "Chile",
+    "Colombia"
+  ],
+  "keywords_searched": [
+    "solar energy",
+    "wind energy",
+    "oil and gas"
+  ],
+  "enriched_companies": [
+    {
+      "name": "Nord Oil And Gas",
+      "domain": "nordoil.com.br",
+      "industry": "oil & energy",
+      "employees": 13,
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "linkedin_url": "http://www.linkedin.com/company/nord-oil-and-gas",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Wind Service Energy and Industrial",
+      "domain": "windservice.com.br",
+      "industry": "machinery",
+      "employees": 3,
+      "country": "Brazil",
+      "city": "Recife",
+      "linkedin_url": "http://www.linkedin.com/company/wind-service-energy-and-industrial",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Grove Hub - Oil & Gas and Energy",
+      "domain": "grovehub.com.br",
+      "industry": "marketing & advertising",
+      "employees": 29,
+      "country": "Brazil",
+      "city": "Rio das Ostras",
+      "linkedin_url": "http://www.linkedin.com/company/grovehub",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Northeast Wind - Green Energy",
+      "domain": "nwenergy.co",
+      "industry": "oil & energy",
+      "employees": 2,
+      "country": "Brazil",
+      "city": "Cajueiro da Praia",
+      "linkedin_url": "http://www.linkedin.com/company/northeast-wind-green-energy",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Sustento Solar Energy",
+      "domain": "sustentoenergiasolar.com.br",
+      "industry": "renewables & environment",
+      "employees": 3,
+      "country": "Brazil",
+      "city": "Sao Carlos",
+      "linkedin_url": "http://www.linkedin.com/company/sustento-energia-solar",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Oil and Gas Optimization",
+      "domain": "ogopt.com",
+      "industry": "oil & energy",
+      "employees": 40,
+      "country": "Mexico",
+      "city": "Villahermosa",
+      "linkedin_url": "http://www.linkedin.com/company/ogopt",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Oil and Gas Group",
+      "domain": "oggroup.com.br",
+      "industry": "oil & energy",
+      "employees": 14,
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "linkedin_url": "http://www.linkedin.com/company/oil-and-gas-group",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Greencol Energy SAS | Energía Solar",
+      "domain": "greencolenergy.com",
+      "industry": "renewables & environment",
+      "employees": 17,
+      "country": "Colombia",
+      "city": "Bogota",
+      "linkedin_url": "http://www.linkedin.com/company/greenbox-energy-s-a-s",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "BRGD Solar Energy",
+      "domain": "brgd.com.br",
+      "industry": "facilities services",
+      "employees": 4,
+      "country": "Brazil",
+      "city": "Sao Paulo",
+      "linkedin_url": "http://www.linkedin.com/company/brgd-energia-solar",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Oil and Gas Alliance",
+      "domain": "oilandgasalliance.com",
+      "industry": "oil & energy",
+      "employees": 32,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "linkedin_url": "http://www.linkedin.com/company/oil-and-gas-alliance",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Macaé Partners - Oil & Gas Equipment and Services",
+      "domain": "macaepartners.com",
+      "industry": "oil & energy",
+      "employees": 3,
+      "country": "Brazil",
+      "city": "Macae",
+      "linkedin_url": "http://www.linkedin.com/company/maca%c3%a9-partners",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Solar Energy",
+      "domain": "solarenergy.com.br",
+      "industry": "renewables & environment",
+      "employees": 40,
+      "country": "Brazil",
+      "city": "Curitiba",
+      "linkedin_url": "http://www.linkedin.com/company/solar-energy",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Sierra Oil and Gas a WintershallDEA company",
+      "domain": "sierraoilandgas.com.mx",
+      "industry": "oil & energy",
+      "employees": 9,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "linkedin_url": "http://www.linkedin.com/company/sierra-oil-and-gas",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "OGX Oil and Gas",
+      "domain": "ogx.com.br",
+      "industry": "oil & energy",
+      "employees": 220,
+      "country": "Brazil",
+      "city": "Rio de Janeiro",
+      "linkedin_url": "http://www.linkedin.com/company/ogx-oil-and-gas",
+      "real_apollo_score": 30,
+      "success": true
+    },
+    {
+      "name": "Solar Power Energy",
+      "domain": "solarpowerenergy.com.br",
+      "industry": "renewables & environment",
+      "employees": 150,
+      "country": "Brazil",
+      "city": "Betim",
+      "linkedin_url": "http://www.linkedin.com/company/solarpowerenergy",
+      "real_apollo_score": 30,
+      "success": true
+    },
+    {
+      "name": "Galt Energy - Energía Solar",
+      "domain": "galt.mx",
+      "industry": "semiconductors",
+      "employees": 46,
+      "country": "Mexico",
+      "city": "San Pedro Garza Garcia",
+      "linkedin_url": "http://www.linkedin.com/company/galt-energy-s-de-rl-de-cv",
+      "real_apollo_score": 15,
+      "success": true
+    },
+    {
+      "name": "Lumenk Solar Energy",
+      "domain": "lumenk.com.br",
+      "industry": "semiconductors",
+      "employees": 51,
+      "country": "Brazil",
+      "city": "Santa Maria",
+      "linkedin_url": "http://www.linkedin.com/company/lumenkenergia",
+      "real_apollo_score": 30,
+      "success": true
+    }
+  ]
+}
